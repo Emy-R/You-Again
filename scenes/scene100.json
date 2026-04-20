@@ -1,0 +1,35 @@
+{
+    "image": "i100.png",
+    "_comment": "Tu entends les sirènes d’une voiture de police. Que fais-tu ?",
+    "zones": [
+        {
+           "x": 0.412,
+  "y": 0.571,
+  "width": 0.219,
+  "height": 0.185,
+            "target": "scene107",
+                 "_comment": "Tu te jettes sur la voiture de police"
+        },
+        {
+            "x": 0.062,
+            "y": 0.760,
+            "width": 0.180,
+            "height": 0.178,
+            "target": "scene106",
+                "_comment": "Tu restes immobile"
+        }
+    ],
+  "sounds": [
+    {
+      "file": "son/police.wav",
+      "trigger": "start",
+      "volume": 0.5,
+      "loop":"true"
+    },
+    {
+      "file": "son/manger.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

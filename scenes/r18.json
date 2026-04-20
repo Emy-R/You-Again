@@ -1,0 +1,10 @@
+{
+  "image": "i18.png",
+  "zones": [],
+  "skippable": "mort_50",
+  "animation": {
+    "duration": 500,
+    "complete_target": "r77",
+    "objects": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "image": "i68.png",
+  "zones": [],
+  "skippable": "scene28",
+  "generate_code" : true,
+  "animation" : {
+    "duration" : 8000,
+    "complete_target" : "scene28",
+    "objects" : []
+  },
+  "sounds": [
+    {
+      "file": "son/tele_statique.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 1
+    }
+  ]
+}

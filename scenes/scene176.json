@@ -1,0 +1,16 @@
+{
+  "image": "i176.png",
+  "zones": [],
+  "animation": {
+    "duration": 2500,
+    "complete_target": "mort_34",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/prison.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

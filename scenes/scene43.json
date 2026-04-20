@@ -1,0 +1,72 @@
+{
+  "image": "i43.png",
+  "zones": [],
+  "skippable": "scene47",
+  "animation": {
+    "duration": 6000,
+    "complete_target": "scene47",
+    "objects":
+    [
+      {
+      "image": "moi.png",
+      "scale": 0.9,
+      "movement": [
+        { "time": 0, "x": -0.7, "y": 0.277},
+        { "time": 4000, "x": 0.68, "y": 0.277}
+        ]
+      },
+
+      {
+      "image": "Charles.png",
+      "scale": 0.9,
+      "movement": [
+        { "time": 0, "x": -1.1, "y": 0.277},
+        { "time": 6000, "x": 0.5, "y": 0.277}
+        ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/slurp3.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/slurp1.wav",
+      "trigger": "delay",
+      "delay": 1000,
+      "volume": 1
+    },
+    {
+      "file": "son/slurp2.wav",
+      "trigger": "delay",
+      "delay": 2000,
+      "volume": 1
+    },
+    {
+      "file": "son/slurp3.wav",
+      "trigger": "delay",
+      "delay": 3000,
+      "volume": 1
+    },
+    {
+      "file": "son/slurp5.wav",
+      "trigger": "delay",
+      "delay": 4000,
+      "volume": 1
+    },
+    {
+      "file": "son/slurp6.wav",
+      "trigger": "delay",
+      "delay": 5000,
+      "volume": 1
+    },
+    {
+      "file": "son/slurp4.wav",
+      "trigger": "delay",
+      "delay": 6000,
+      "volume": 1
+    }
+  ]
+}

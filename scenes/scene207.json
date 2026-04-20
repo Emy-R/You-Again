@@ -1,0 +1,16 @@
+{
+  "image": "i207.png",
+  "zones": [],
+  "animation": {
+    "duration": 7000,
+    "complete_target": "scene219",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/telephone.wav",
+      "trigger": "start",
+      "volume": 0.5
+    }
+  ]
+}

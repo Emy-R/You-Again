@@ -1,0 +1,22 @@
+{
+    "image": "i6.png",
+    "_comment": "Tu es dans la douche, comment veux-tu te laver ?",
+    "zones": [
+        {
+            "x": 0.449,
+            "y": 0.456,
+            "width": 0.200,
+            "height": 0.144,
+            "target": "r7",
+                 "_comment": "à l'eau chaude mais rev"
+        },
+        {
+            "x": 0.703,
+            "y": 0.639,
+           "width": 0.164,
+           "height": 0.135,
+           "target": "r8",
+                 "_comment": "à l'eau froide mais rev"
+        }
+    ]
+}

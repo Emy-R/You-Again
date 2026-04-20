@@ -1,0 +1,22 @@
+{
+    "image": "i35.png",
+    "_comment": "Tu es à présent dans ton jardin, que fais-tu maintenant ?",
+    "zones": [
+        {
+            "x": 0.030,
+            "y": 0.397,
+            "width": 0.241,
+            "height": 0.113,
+            "target": "scene36",
+                 "_comment": "manger l'herbe"
+        },
+        {
+            "x": 0.295,
+            "y": 0.533,
+            "width": 0.164,
+            "height": 0.160,
+            "target": "scene37",
+                "_comment": "toucher le buisson"
+        }
+    ]
+}

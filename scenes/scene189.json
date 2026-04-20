@@ -1,0 +1,9 @@
+{
+  "image": "i189.png",
+  "zones": [],
+  "animation": {
+    "duration": 4000,
+    "complete_target": "expli3",
+    "objects": []
+  }
+}

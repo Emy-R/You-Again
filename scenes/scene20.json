@@ -1,0 +1,38 @@
+{
+  "image": "i20.png",
+  "zones": [],
+  "animation": {
+    "duration": 1700,
+    "complete_target": "scene21",
+    "objects": [
+      {
+        "image": "Moi_penche.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": 0.571, "y": 0.288},
+          { "time": 1000, "x": 0.571, "y": 0.790},
+          { "time": 1700, "x": 0.571, "y": 0.790}
+        ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/frappe.wav",
+      "trigger": "delay",
+      "delay": 750,
+      "volume": 1
+    },
+    {
+      "file": "son/pop.wav",
+      "trigger": "delay",
+      "delay": 750,
+      "volume": 1
+    },
+    {
+      "file": "son/fiou.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

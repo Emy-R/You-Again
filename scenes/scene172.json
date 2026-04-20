@@ -1,0 +1,43 @@
+{
+  "image": "i172.png",
+  "zones": [],
+  "animation": {
+    "duration": 6000,
+    "complete_target": "mort_32",
+    "objects":
+    [
+      {
+      "image": "Moi_en_ski.png",
+      "scale": 0.6,
+      "movement":
+      [
+        { "time": 0, "x": -0.2, "y": 0.1},
+        { "time": 4000, "x": 1.2, "y": 0.54}
+      ]
+      },
+
+      {
+      "image": "ours_polaire_mechant.png",
+      "scale": 1,
+      "movement":
+      [
+        { "time": 3000, "x": -1, "y": 0.1},
+        { "time": 6000, "x": 1.6, "y": 0.75}
+      ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/ski.wav",
+      "trigger": "start",
+      "volume": 0.5
+    },
+    {
+      "file": "son/ski.wav",
+      "trigger": "delay",
+      "delay": 3000,
+      "volume": 0.5
+    }
+  ]
+}

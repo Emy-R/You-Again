@@ -1,0 +1,14 @@
+{
+  "image": "iexpli5.png",
+  "_comment": "Clique vite pour battre la mamie !Ne la laisse pas gagner !",
+  "zones": [
+    {
+      "x": 0.46,
+      "y": 0.71,
+      "width": 0.10,
+      "height": 0.08,
+      "target": "scene51",
+      "_comment": "PRET ?"
+    }
+  ]
+}

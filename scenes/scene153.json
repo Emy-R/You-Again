@@ -1,0 +1,9 @@
+{
+  "image": "i153.png",
+  "zones": [],
+  "animation": {
+    "duration": 2000,
+    "complete_target": "mort_28",
+    "objects": []
+  }
+}

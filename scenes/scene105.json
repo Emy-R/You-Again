@@ -1,0 +1,22 @@
+{
+    "image": "i105.png",
+    "_comment": "Tu es de retour dans ton jardin mais un papillon louche surgit ",
+    "zones": [
+        {
+           "x": 0.279,
+  "y": 0.568,
+  "width": 0.176,
+  "height": 0.146,
+            "target": "scene113",
+                 "_comment": "Tu le laisses en vie"
+        },
+        {
+          "x": 0.755,
+  "y": 0.817,
+  "width": 0.141,
+  "height": 0.147,
+            "target": "scene134",
+                "_comment": "Tu le tue"
+        }
+    ]
+}

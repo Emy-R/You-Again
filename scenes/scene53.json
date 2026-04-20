@@ -1,0 +1,30 @@
+{
+    "image": "i53.png",
+    "_comment": "Un trophée tombe du ciel, si tu le touches, tu gagnes le jeu, que décides-tu de faire ?",
+    "zones": [
+        {
+  "x": 0.262,
+  "y": 0.357,
+  "width": 0.215,
+  "height": 0.169,
+  "target": "scene56",
+            "_comment": "tu touches le buisson"
+        },
+        {
+  "x": 0.045,
+  "y": 0.851,
+  "width": 0.277,
+  "height": 0.127,
+  "target": "scene57",
+            "_comment": "tu manges l'herbe"
+        },
+        {
+  "x": 0.480,
+  "y": 0.819,
+  "width": 0.234,
+  "height": 0.170,
+  "target": "scene54",
+            "_comment": "tu touches le trophee"
+        }
+    ]
+}

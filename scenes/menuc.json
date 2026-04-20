@@ -1,0 +1,27 @@
+{
+    "image": "menuc.png",
+    "zones": [
+        {
+          "x": 0.062,
+          "y": 0.610,
+         "width": 0.269,
+          "height": 0.194,
+          "target": "scene2"
+        },
+        {
+          "x": 0.680,
+          "y": 0.603,
+          "width": 0.273,
+          "height": 0.186,
+          "target": "menud"
+        }
+    ],
+  "sounds": [
+    {
+      "file": "son/lore.wav",
+      "trigger": "start",
+      "volume": 0.25,
+      "loop": "true"
+    }
+  ]
+}

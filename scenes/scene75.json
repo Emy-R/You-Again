@@ -1,0 +1,42 @@
+{
+  "image": "i75.png",
+  "zones": [],
+  "animation": {
+    "duration": 4400,
+    "complete_target": "mort_16",
+    "objects":
+    [
+      {
+      "image": "burger_man.png",
+      "scale": 0.48,
+      "movement": [
+        { "time": 0, "x": 0.17, "y": 0.32},
+        { "time": 400, "x": 0.17, "y": 0.4},
+        { "time": 800, "x": 0.17, "y": 0.32},
+        { "time": 1200, "x": 0.17, "y": 0.4},
+        { "time": 1600, "x": 0.17, "y": 0.32},
+        { "time": 2000, "x": 0.17, "y": 0.4},
+        { "time": 2400, "x": 0.17, "y": 0.32},
+        { "time": 2800, "x": 0.17, "y": 0.4},
+        { "time": 3200, "x": 0.17, "y": 0.32},
+        { "time": 3600, "x": 0.17, "y": 0.4},
+        { "time": 4000, "x": 0.17, "y": 0.32},
+        { "time": 4400, "x": 0.17, "y": 0.4}
+      ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/burger_man.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/burger_man.wav",
+      "trigger": "delay",
+      "delay": 2250,
+      "volume": 1
+    }
+  ]
+}

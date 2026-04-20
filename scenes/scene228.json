@@ -1,0 +1,26 @@
+{
+  "image": "i228.png",
+  "zones": [],
+  "animation": {
+    "duration": 9000,
+    "complete_target": "scene229",
+    "objects":
+    [
+      {
+      "image": "Charles_mirror_.png",
+      "scale": 0.411,
+      "movement": [
+        { "time": 0, "x": 0.47, "y": 0.48},
+        { "time": 7000, "x": 0.47, "y": 0.27}
+        ]
+      },
+      {
+      "image": "Buisson.png",
+      "scale": 1.1912,
+      "movement": [
+        { "time": 0, "x": 0.0047, "y": 0.0055}
+        ]
+      }
+    ]
+  }
+}

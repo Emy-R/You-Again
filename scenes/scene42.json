@@ -1,0 +1,39 @@
+{
+  "image": "i42.png",
+  "zones": [],
+  "skippable": "scene47",
+  "animation": {
+    "duration": 8000,
+    "complete_target": "scene43",
+    "objects":
+    [
+      {
+      "image": "CharlesOG180.png",
+      "scale": 0.4,
+      "movement":
+      [
+        { "time": 0, "x": 0.491, "y": 0.22},
+        { "time": 6000, "x": 0.491, "y": 0.32},
+        { "time": 8000, "x": 0.491, "y": 0.32}
+      ]
+      },
+
+      {
+      "image": "Television.png",
+      "scale": 0.94,
+      "movement":
+      [
+        { "time": 0, "x": 0.035, "y": -0.37}
+      ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/slurp4.wav",
+      "trigger": "delay",
+      "delay": 7000,
+      "volume": 1
+    }
+   ]
+}

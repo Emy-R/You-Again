@@ -1,0 +1,30 @@
+{
+    "image": "i115.png",
+    "_comment": "Quel policier veux-tu frapper ?",
+    "zones": [
+        {
+            "x": 0.340,
+  "y": 0.575,
+  "width": 0.061,
+  "height": 0.119,
+            "target": "scene124",
+                 "_comment": "lui"
+        },
+        {
+           "x": 0.612,
+  "y": 0.643,
+  "width": 0.104,
+  "height": 0.104,
+            "target": "scene125",
+                "_comment": "jo"
+        },
+      {
+        "x": 0.773,
+  "y": 0.793,
+  "width": 0.095,
+  "height": 0.078,
+        "target": "scene126",
+        "_comment": "lui "
+      }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "image": "i52.png",
+  "zones": [],
+  "animation": {
+    "duration": 5500,
+    "complete_target": "mort_10",
+    "objects":
+    [
+      {
+      "image": "moi.png",
+      "scale": 0.9,
+      "movement": [
+        { "time": 0, "x": 0.607, "y": 0.277},
+        { "time": 4000, "x": -0.7, "y": 0.277}
+        ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/frappe.wav",
+      "trigger": "delay",
+      "delay": 4500,
+      "volume": 1
+    }
+   ]
+}

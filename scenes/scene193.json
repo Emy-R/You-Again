@@ -1,0 +1,17 @@
+{
+  "image": "i193.png",
+  "zones": [],
+  "animation": {
+    "duration": 3000,
+    "complete_target": "mort_31",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/panpan.wav",
+      "trigger": "delay",
+      "delay": 2000,
+      "volume": 0.8
+    }
+   ]
+}

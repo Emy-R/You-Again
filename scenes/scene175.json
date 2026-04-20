@@ -1,0 +1,22 @@
+{
+    "image": "i175.png",
+    "_comment": "tu es a présent sur les nuages",
+    "zones": [
+        {
+  "x": 0.033,
+  "y": 0.402,
+  "width": 0.289,
+  "height": 0.162,
+  "target": "scene181",
+          "_comment": "toucher un nuage"
+},
+        {
+  "x": 0.734,
+  "y": 0.137,
+  "width": 0.199,
+  "height": 0.116,
+  "target": "scene180",
+          "_comment": "se balader"
+}
+    ]
+}

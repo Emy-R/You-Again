@@ -1,0 +1,6 @@
+{ "image" : "i51.png",
+  "zones":  [],
+  "win_target": "scene61",
+  "target": "mort_9",
+  "minigame" :"mg_mamie"
+}

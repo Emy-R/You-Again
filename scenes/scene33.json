@@ -1,0 +1,27 @@
+{
+  "image": "i33.png",
+  "zones": [],
+  "skippable": "scene44",
+  "animation": {
+    "duration": 3000,
+    "complete_target": "scene44",
+    "objects": [
+      {
+        "image": "mamie_en_colere.png",
+        "scale": 0.95,
+        "movement": [
+          { "time": 0, "x": 0.625, "y": 0.166},
+          { "time": 3000, "x": -0.625, "y": 0.166 }
+        ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/mamie.wav",
+      "trigger": "delay",
+      "delay": 250,
+      "volume": 0.75
+    }
+  ]
+}

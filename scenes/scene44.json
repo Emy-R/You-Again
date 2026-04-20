@@ -1,0 +1,22 @@
+{
+    "image": "i44.png",
+    "_comment": "Tu as récupéré une lettre ! Mais une grand mère folle débarque et essaye de te voler ton courrier, que fais-tu ?",
+    "zones": [
+        {
+  "x": 0.466,
+  "y": 0.540,
+  "width": 0.143,
+  "height": 0.071,
+  "target": "scene237",
+            "_comment": "se battre"
+          },
+        {
+  "x": 0.489,
+  "y": 0.777,
+  "width": 0.099,
+  "height": 0.077,
+  "target": "scene52",
+            "_comment": "fuir"
+        }
+    ]
+}

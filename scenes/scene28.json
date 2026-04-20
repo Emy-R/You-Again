@@ -1,0 +1,22 @@
+{
+    "image": "i28.png",
+    "_comment": "Tu es confortablement installé sur ton fauteuil, que veux-tu regarder ?",
+    "zones": [
+        {
+           "x": 0.676,
+           "y": 0.499,
+           "width": 0.285,
+            "height": 0.188,
+           "target": "scene29",
+                 "_comment": "Food Network (une émission sur de la bouffe)"
+        },
+        {
+            "x": 0.774,
+            "y": 0.726,
+            "width": 0.225,
+            "height": 0.203,
+             "target": "scene40",
+                 "_comment": "Judge Judy (Une émission sur des juges)"
+        }
+    ]
+}

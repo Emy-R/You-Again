@@ -1,0 +1,22 @@
+{
+    "image": "i167.png",
+    "_comment": "frites carnivores devant rivière de mayo",
+    "zones": [
+        {
+  "x": 0.031,
+  "y": 0.293,
+  "width": 0.258,
+  "height": 0.184,
+  "target": "scene182",
+          "_comment": "cacher dans la rivière"
+},
+        {
+  "x": 0.419,
+  "y": 0.117,
+  "width": 0.227,
+  "height": 0.179,
+  "target": "scene183",
+          "_comment": "affronter les frites"
+}
+    ]
+}

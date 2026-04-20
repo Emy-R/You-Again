@@ -1,0 +1,16 @@
+{
+  "image": "i41.png",
+  "zones": [],
+  "animation": {
+    "duration": 5000,
+    "complete_target": "scene30",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/judge_judy.wav",
+      "trigger": "start",
+      "volume": 0.5
+    }
+  ]
+}

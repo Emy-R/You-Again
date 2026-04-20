@@ -1,0 +1,18 @@
+{
+  "image": "i149.png",
+  "zones": [],
+  "skippable" : "scene157",
+  "animation": {
+    "duration": 1000,
+    "complete_target": "scene157",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/vroom.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.25
+    }
+  ]
+}

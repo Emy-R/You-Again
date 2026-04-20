@@ -1,0 +1,22 @@
+{
+    "image": "i158.png",
+    "_comment": "Tu viens de te réveiller, que décides-tu de faire ?",
+    "zones": [
+        {
+  "x": 0.737,
+  "y": 0.699,
+  "width": 0.263,
+  "height": 0.093,
+  "target": "scene166",
+          "_comment": "Tu sors explorer "
+},
+        {
+  "x": 0.754,
+  "y": 0.806,
+  "width": 0.234,
+  "height": 0.178,
+  "target": "scene159",
+          "_comment": "Tu bois le chocolat chaud"
+}
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "image": "i135.png",
+    "_comment": "Une potion mystique se trouvait dans le coffre, que décides-tu de faire à présent ?",
+    "zones": [
+        {
+  "x": 0.580,
+  "y": 0.706,
+  "width": 0.151,
+  "height": 0.123,
+  "target": "scene140",
+          "_comment": "boire"
+},
+        {
+  "x": 0.783,
+  "y": 0.679,
+  "width": 0.172,
+  "height": 0.194,
+  "target": "scene141",
+          "_comment": "pas boire"
+}
+    ]
+}

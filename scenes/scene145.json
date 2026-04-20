@@ -1,0 +1,22 @@
+{
+    "image": "i145.png",
+    "_comment": "Bravo, bonne réponse ! Que fais-tu maintenant ?",
+    "zones": [
+        {
+  "x": 0.366,
+  "y": 0.659,
+  "width": 0.156,
+  "height": 0.138,
+  "target": "scene147",
+          "_comment": "Tu dors"
+},
+        {
+  "x": 0.614,
+  "y": 0.637,
+  "width": 0.207,
+  "height": 0.191,
+  "target": "scene148",
+          "_comment": "Tu manges des cailloux"
+}
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "image": "i133.png",
+  "zones": [],
+  "animation": {
+    "duration": 3000,
+    "complete_target": "scene139",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/zgu.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

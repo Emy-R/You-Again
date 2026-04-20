@@ -1,0 +1,22 @@
+{
+    "image": "i146.png",
+    "_comment": "Aie aie aie, mauvaise réponse, tu as froissé le Dieu des maths, que fais-tu maintenant ?",
+    "zones": [
+        {
+  "x": 0.376,
+  "y": 0.657,
+  "width": 0.146,
+  "height": 0.139,
+  "target": "scene144",
+          "_comment": "Tu dors"
+},
+        {
+  "x": 0.614,
+  "y": 0.619,
+  "width": 0.211,
+  "height": 0.218,
+  "target": "scene151",
+          "_comment": "Tu manges des cailloux"
+}
+    ]
+}

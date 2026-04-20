@@ -1,0 +1,38 @@
+{
+  "image": "i117.png",
+  "zones": [],
+  "animation": {
+    "duration": 3000,
+    "complete_target": "mort_23",
+    "objects":
+    [
+      {
+        "image": "Taupes_zehef_detour.png",
+        "scale": 1.2,
+        "movement": [
+          { "time": 0, "x": 0.9, "y": 0.55},
+          { "time": 3000, "x": 0.19, "y": 0.55}
+        ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/taupe.wav",
+      "trigger": "delay",
+      "delay": 1000,
+      "volume": 1
+    },
+    {
+      "file": "son/taupe_pas.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/taupe_pas.wav",
+      "trigger": "delay",
+      "delay": 1500,
+      "volume": 1
+    }
+  ]
+}

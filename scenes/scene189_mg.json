@@ -1,0 +1,6 @@
+{ "image" : "i51.png",
+  "zones":  [],
+  "win_target": "scene171",
+  "target": "mort_48",
+  "minigame" :"mg_ski"
+}

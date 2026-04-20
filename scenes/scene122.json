@@ -1,0 +1,28 @@
+{
+  "image": "i122.png",
+  "zones": [],
+  "animation": {
+    "duration": 3000,
+    "complete_target": "mort_24",
+    "objects":
+    [
+      {
+        "image": "Patate.png",
+        "scale": 0.58,
+        "movement": [
+          { "time": 0, "x": -2, "y": -1 },
+          { "time": 3000, "x": 0.3, "y": 0.1 }
+        ]
+      }
+
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/vroom.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.25
+    }
+  ]
+}

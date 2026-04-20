@@ -1,0 +1,6 @@
+{ "image" : "i51.png",
+  "zones":  [],
+  "win_target": "scene173",
+  "target": "scene174",
+  "minigame" :"mg_date"
+}

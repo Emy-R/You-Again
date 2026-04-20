@@ -1,0 +1,17 @@
+{
+  "image": "i127.png",
+  "zones": [],
+  "skippable" : "scene135",
+  "animation": {
+    "duration": 2500,
+    "complete_target": "scene135",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/angelique.wav",
+      "trigger": "start",
+      "volume": 0.5
+    }
+  ]
+}

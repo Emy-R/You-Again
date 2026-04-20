@@ -1,0 +1,10 @@
+{
+  "image": "i214.png",
+  "zones": [],
+  "skippable": "scene201",
+  "animation": {
+    "duration": 1000,
+    "complete_target": "scene201",
+    "objects": []
+  }
+}

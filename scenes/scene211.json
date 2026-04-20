@@ -1,0 +1,19 @@
+{
+  "image": "i211.png",
+  "zones": [],
+  "animation": {
+    "duration": 2000,
+    "complete_target": "mort_46",
+    "objects":
+    [
+      {
+        "image": "Patate.png",
+        "scale": 0.53,
+        "movement": [
+          { "time": 0, "x": -1.4, "y": -1.4 },
+          { "time": 2000, "x": 0.2, "y": 0.2 }
+        ]
+      }
+    ]
+  }
+}

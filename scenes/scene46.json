@@ -1,0 +1,30 @@
+{
+    "image": "i46.png",
+    "_comment": "Tu as arrêté de manger, que fais-tu maintenant ?",
+    "zones": [
+        {
+  "x": 0.031,
+  "y": 0.568,
+  "width": 0.229,
+  "height": 0.113,
+  "target": "scene96",
+            "_comment": "tu vas dehors"
+        },
+        {
+  "x": 0.022,
+  "y": 0.753,
+  "width": 0.264,
+  "height": 0.187,
+  "target": "scene59",
+            "_comment": "tu vas regarder la tv"
+        },
+        {
+  "x": 0.712,
+  "y": 0.668,
+  "width": 0.254,
+  "height": 0.276,
+  "target": "scene95",
+            "_comment": "tu decides de ne plus rien faire"
+        }
+    ]
+}

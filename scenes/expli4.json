@@ -1,0 +1,14 @@
+{
+  "image": "iexpli4.png",
+  "_comment": "Utilise la souris pour écraser les patates spatiales.Protège Blob et ne les laisse pas passer !",
+  "zones": [
+    {
+      "x": 0.46,
+      "y": 0.70,
+      "width": 0.10,
+      "height": 0.08,
+      "target": "scene110_mg",
+      "_comment": "PRET ?"
+    }
+  ]
+}

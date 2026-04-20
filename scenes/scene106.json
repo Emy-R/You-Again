@@ -1,0 +1,22 @@
+{
+    "image": "i106.png",
+    "_comment": "Trois policiers débarquent et te voient à côté d’une mamie assommée. Ils te demandent si c’est de ta faute.\n",
+    "zones": [
+        {
+  "x": 0.166,
+  "y": 0.533,
+  "width": 0.235,
+  "height": 0.196,
+            "target": "scene115",
+                 "_comment": "Tu frappes l’un des policiers "
+        },
+        {
+  "x": 0.758,
+  "y": 0.847,
+  "width": 0.170,
+  "height": 0.121,
+            "target": "scene114",
+                "_comment": "Tu dis oui"
+        }
+    ]
+}

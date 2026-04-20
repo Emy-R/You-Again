@@ -1,0 +1,22 @@
+{
+    "image": "i136.png",
+    "_comment": "Tu es arrivé à Burger-land que veux-tu faire à présent ?",
+    "zones": [
+        {
+  "x": 0.336,
+  "y": 0.667,
+  "width": 0.296,
+  "height": 0.198,
+  "target": "scene154",
+            "_comment": "parler"
+        },
+        {
+  "x": 0.702,
+  "y": 0.669,
+  "width": 0.241,
+  "height": 0.198,
+  "target": "scene155",
+            "_comment": "rentrer"
+        }
+    ]
+}

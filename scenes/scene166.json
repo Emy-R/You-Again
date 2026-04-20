@@ -1,0 +1,22 @@
+{
+    "image": "i166.png",
+    "_comment": "accéder à la montagne",
+    "zones": [
+        {
+  "x": 0.131,
+  "y": 0.810,
+  "width": 0.211,
+  "height": 0.171,
+  "target": "scene185",
+          "_comment": "tir-fesse VICTOIRE"
+},
+        {
+  "x": 0.709,
+  "y": 0.828,
+  "width": 0.223,
+  "height": 0.141,
+  "target": "scene186",
+          "_comment": "telesiège"
+}
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "image": "i34.png",
+  "zones": [],
+  "animation": {
+    "duration": 3800,
+    "complete_target": "mort_6",
+    "objects":
+    [
+      {
+        "image": "Patate.png",
+        "scale": 0.6,
+        "movement": [
+          { "time": 0, "x": -4, "y": -1.4 },
+          { "time": 3800, "x": 0.078, "y": 0.185 }
+        ]
+      }
+    ]
+  }
+}

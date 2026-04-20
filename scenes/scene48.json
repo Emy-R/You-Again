@@ -1,0 +1,17 @@
+{
+  "image": "i48.png",
+  "zones": [],
+  "skippable": "scene60",
+  "animation": {
+    "duration": 1000,
+    "complete_target": "scene49",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/argent.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

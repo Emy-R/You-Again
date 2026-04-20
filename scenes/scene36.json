@@ -1,0 +1,17 @@
+{
+  "image": "i36.png",
+  "zones": [],
+  "skippable": "scene45",
+  "animation": {
+    "duration": 1250,
+    "complete_target": "scene45",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/manger.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

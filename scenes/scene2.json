@@ -1,0 +1,23 @@
+{
+    "image": "i2.png",
+     "_comment":" Premier choix : Tu viens de te réveiller, tu es dans ton lit et il y a un sorcier effrayant à ta fenêtre, que fais-tu ?",
+    "zones":[
+        {
+            "x": 0.018,
+            "y": 0.732,
+            "width": 0.330,
+            "height": 0.081,
+            "target": "scene3",
+                  "_comment": "tu vas fermer ta fenetre"
+
+        },
+        {
+            "x": 0.187,
+            "y": 0.867,
+            "width": 0.270,
+            "height": 0.106,
+            "target": "scene4",
+                  "_comment": "tu retournes dormir"
+        }
+    ]
+}

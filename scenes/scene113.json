@@ -1,0 +1,30 @@
+{
+    "image": "i113.png",
+    "_comment": "Tu es de retour dans ton jardin, que veux-tu faire ?",
+    "zones": [
+        {
+           "x": 0.054,
+           "y": 0.720,
+          "width": 0.214,
+          "height": 0.220,
+            "target": "scene121",
+                 "_comment": "Tu touches le trophée/victoire"
+        },
+        {
+          "x": 0.748,
+          "y": 0.738,
+          "width": 0.240,
+          "height": 0.211,
+            "target": "scene64",
+                "_comment": "Tu sautes dans le trou"
+        },
+      {
+           "x": 0.424,
+           "y": 0.762,
+           "width": 0.273,
+           "height": 0.176,
+            "target": "scene228",
+                "_comment": "Tu touches le buisson"
+        }
+    ]
+}

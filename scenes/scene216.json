@@ -1,0 +1,11 @@
+{
+  "image": "i216.png",
+  "zones": [],
+  "skippable": "scene204",
+  "fade": "in",
+  "animation": {
+    "duration": 2000,
+    "complete_target": "scene204",
+    "objects": []
+  }
+}

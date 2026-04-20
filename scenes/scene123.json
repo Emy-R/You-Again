@@ -1,0 +1,24 @@
+{
+  "image": "i123.png",
+  "zones": [],
+  "fade":"out",
+  "skippable": "scene130",
+  "animation": {
+    "duration": 7500,
+    "complete_target": "scene130",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/dodo.wav",
+      "trigger": "start",
+      "volume": 0.75
+    },
+    {
+      "file": "son/vroom.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.25
+    }
+  ]
+}

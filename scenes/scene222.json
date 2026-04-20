@@ -1,0 +1,9 @@
+{
+  "image": "i222.png",
+  "zones": [],
+  "animation": {
+    "duration": 2000,
+    "complete_target": "scene211",
+    "objects": []
+  }
+}

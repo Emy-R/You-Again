@@ -1,0 +1,22 @@
+{
+    "image": "i45.png",
+    "_comment": "L’herbe est délicieuse, que décides-tu de faire maintenant ?",
+    "zones": [
+        {
+  "x": 0.165,
+  "y": 0.513,
+  "width": 0.257,
+  "height": 0.089,
+  "target": "scene53",
+            "_comment": "tu gagnes le jeu"
+        },
+        {
+  "x": 0.050,
+  "y": 0.749,
+  "width": 0.346,
+  "height": 0.132,
+  "target": "scene37",
+            "_comment": "tu touches le buisson"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "image": "i134.png",
+    "_comment": "Tu as vaincu le papillon, que veux-tu faire maintenant ?",
+    "zones": [
+        {
+  "x": 0.260,
+  "y": 0.511,
+  "width": 0.212,
+  "height": 0.189,
+  "target": "scene54",
+          "_comment": "trophée"
+},
+      {
+  "x": 0.504,
+  "y": 0.647,
+  "width": 0.275,
+  "height": 0.143,
+  "target": "scene64",
+          "_comment": "trou"
+},
+        {
+  "x": 0.667,
+  "y": 0.827,
+  "width": 0.218,
+  "height": 0.158,
+  "target": "scene56",
+          "_comment": "buisson"
+}
+    ]
+}

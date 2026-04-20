@@ -1,0 +1,22 @@
+{
+    "image": "i104.png",
+    "_comment": "Tu arrives dans un embranchement à deux chemins, lequel décides-tu d’emprunter ?",
+    "zones": [
+        {
+            "x": 0.175,
+  "y": 0.335,
+  "width": 0.141,
+  "height": 0.178,
+            "target": "scene111",
+                 "_comment": "celui de gauche"
+        },
+        {
+            "x": 0.621,
+  "y": 0.350,
+  "width": 0.110,
+  "height": 0.133,
+            "target": "scene112",
+                "_comment": "celui de droite"
+        }
+    ]
+}

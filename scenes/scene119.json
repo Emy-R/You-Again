@@ -1,0 +1,43 @@
+{
+  "image": "i119.png",
+  "zones": [],
+  "animation": {
+    "duration": 3500,
+    "complete_target": "scene129",
+    "objects":
+    [
+      {
+        "image": "Patate.png",
+        "scale": 0.53,
+        "movement": [
+          { "time": 0, "x": -1, "y": -1 },
+          { "time": 2500, "x": -0.16, "y": -0.1}
+        ]
+      },
+
+      {
+        "image": "Papillon.png",
+        "scale": 0.96,
+        "movement": [
+          { "time": 0, "x": 0.3, "y": -0.27 },
+          { "time": 2000, "x": -0.4, "y": -0.42}
+        ]
+      }
+
+    ]
+
+
+  },
+  "sounds": [
+    {
+      "file": "son/verre.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/verre.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

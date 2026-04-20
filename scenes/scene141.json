@@ -1,0 +1,22 @@
+{
+    "image": "i141.png",
+    "_comment": "Tu as décidé de ne pas boire la potion, que fais-tu maintenant ?",
+    "zones": [
+        {
+  "x": 0.378,
+  "y": 0.648,
+  "width": 0.139,
+  "height": 0.162,
+  "target": "scene147",
+          "_comment": "Tu dors"
+},
+        {
+  "x": 0.612,
+  "y": 0.612,
+  "width": 0.209,
+  "height": 0.218,
+  "target": "scene148",
+          "_comment": "Tu manges des cailloux"
+}
+    ]
+}

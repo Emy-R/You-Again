@@ -1,0 +1,29 @@
+{
+    "image": "i19.png",
+    "_comment": "Tu es maintenant en bas de tes escaliers, que décides-tu de faire ?",
+    "zones": [
+        {
+             "x": 0.223,
+             "y": 0.510,
+             "width": 0.227,
+             "height": 0.149,
+             "target": "scene22",
+                 "_comment": "Prendre ton petit déjeuner"
+        },
+        {
+            "x": 0.668,
+            "y": 0.660,
+            "width": 0.202,
+            "height": 0.174,
+            "target": "scene28",
+                  "_comment": "regarder la télé"
+        }
+    ],
+  "sounds": [
+    {
+      "file": "son/pas1.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

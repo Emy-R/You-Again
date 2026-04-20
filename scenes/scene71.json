@@ -1,0 +1,17 @@
+{
+  "image": "i71.png",
+  "zones": [],
+  "skippable": "scene76",
+  "animation": {
+    "duration": 2500,
+    "complete_target": "scene76",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/angelique.wav",
+      "trigger": "start",
+      "volume": 0.5
+    }
+  ]
+}

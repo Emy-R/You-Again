@@ -1,0 +1,23 @@
+{
+  "image": "i142.png",
+  "zones": [],
+  "skippable" : "scene157",
+  "animation": {
+    "duration": 3000,
+    "complete_target": "scene149",
+    "objects": []
+  },
+  "sounds": [
+      {
+      "file": "son/scooter2.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/vroom.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.25
+    }
+  ]
+}

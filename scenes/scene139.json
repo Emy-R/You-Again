@@ -1,0 +1,45 @@
+{
+  "image": "i139.png",
+  "zones": [],
+  "animation": {
+    "duration": 7200,
+    "complete_target": "mort_26",
+    "objects":
+    [
+      {
+      "image": "vaisseau_avec_zgu.png",
+      "scale": 0.66,
+      "movement":
+      [
+        { "time": 0, "x": 1.8, "y": 0},
+        { "time": 3800, "x": -1, "y": 0.2}
+      ]
+      },
+
+      {
+      "image": "Vaisseau_zgu_moi.png",
+      "scale": 0.66,
+      "movement":
+      [
+        { "time": 4000, "x": -1, "y": 0},
+        { "time": 6500, "x": 0.27, "y": 0},
+        { "time": 7000, "x": 0.9, "y": -1.1}
+
+      ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/ovni.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/fruit_ninja.wav",
+      "trigger": "delay",
+      "delay": 6400,
+      "volume": 1
+    }
+  ]
+}

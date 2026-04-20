@@ -1,0 +1,33 @@
+{
+  "image": "i159.png",
+  "zones": [],
+  "animation": {
+    "duration": 4000,
+    "complete_target": "mort_29",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/feu.wav",
+      "trigger": "delay",
+      "delay": 1000,
+      "volume": 1
+    },
+    {
+      "file": "son/feu.wav",
+      "trigger": "delay",
+      "delay": 1000,
+      "volume": 0.5
+    },
+    {
+      "file": "son/glouglou.wav",
+      "trigger": "start",
+      "volume": 0.5
+    },
+    {
+      "file": "son/glouglou.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

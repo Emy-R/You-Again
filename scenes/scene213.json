@@ -1,0 +1,22 @@
+{
+    "image": "i213.png",
+    "_comment": "statue patate en or",
+    "zones": [
+        {
+  "x": 0.629,
+  "y": 0.094,
+  "width": 0.349,
+  "height": 0.179,
+  "target": "scene179",
+          "_comment": "regarder statue"
+},
+        {
+  "x": 0.659,
+  "y": 0.381,
+  "width": 0.295,
+  "height": 0.148,
+  "target": "scene178",
+          "_comment": "retourner dehors"
+}
+    ]
+}

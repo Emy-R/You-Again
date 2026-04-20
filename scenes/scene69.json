@@ -1,0 +1,7 @@
+{ "image" : "i51.png",
+  "zones":  [],
+  "win_target": "scene31",
+  "target": "mort_14",
+  "lose_wall_target": "mort_13",
+  "minigame" :"mg_snake"
+}

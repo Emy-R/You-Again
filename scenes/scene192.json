@@ -1,0 +1,22 @@
+{
+    "image": "i192.png",
+    "_comment": "où est la lettre",
+    "zones": [
+        {
+  "x": 0.739,
+  "y": 0.107,
+  "width": 0.251,
+  "height": 0.148,
+  "target": "scene199",
+          "_comment": "je l'ai mangé"
+},
+        {
+  "x": 0.774,
+  "y": 0.420,
+  "width": 0.184,
+  "height": 0.168,
+  "target": "scene200",
+          "_comment": "faire la sieste"
+}
+    ]
+}

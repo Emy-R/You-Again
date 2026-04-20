@@ -1,0 +1,24 @@
+{
+    "image": "i38.png",
+     "_comment": "Le petit déjeuner au chocolat est délicieux ! Que veux-tu faire à présent ?",
+    "zones": [
+        {
+            "x": 0.648,
+            "y": 0.275,
+            "width": 0.183,
+            "height": 0.147,
+            "target": "scene39",
+                "_comment": "Continuer de manger"
+
+        },
+        {
+            "x": 0.810,
+            "y": 0.500,
+            "width": 0.163,
+            "height": 0.129,
+            "target": "scene46",
+                "_comment": "Arrêter de manger"
+
+        }
+    ]
+}

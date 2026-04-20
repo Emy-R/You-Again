@@ -1,0 +1,22 @@
+{
+    "image": "i173.png",
+    "_comment": "devant un temps mystique",
+    "zones": [
+        {
+  "x": 0.036,
+  "y": 0.810,
+  "width": 0.246,
+  "height": 0.174,
+  "target": "scene178",
+          "_comment": "continuer votre chemin"
+},
+        {
+  "x": 0.315,
+  "y": 0.853,
+  "width": 0.256,
+  "height": 0.119,
+  "target": "scene213",
+          "_comment": "visiter le temps"
+}
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "image": "i70.png",
+  "_comment": "tu as mangé la lettre, que fais tu mtn ?",
+    "zones": [
+        {
+  "x": 0.443,
+  "y": 0.471,
+  "width": 0.188,
+  "height": 0.141,
+  "target": "scene74",
+          "_comment": "tu retournes chez toi"
+},
+        {
+  "x": 0.688,
+  "y": 0.364,
+  "width": 0.203,
+  "height": 0.146,
+  "target": "scene71",
+          "_comment": "tu fouilles la mamie"
+}
+    ],
+  "sounds": [
+    {
+      "file": "son/manger.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

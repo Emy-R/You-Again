@@ -1,0 +1,22 @@
+{
+    "image": "i17.png",
+    "_comment": "Tu te rends compte que tu n’as pas de barbe, que fais-tu maintenant ?",
+    "zones": [
+        {
+            "x": 0.548,
+            "y": 0.694,
+            "width": 0.150,
+            "height": 0.140,
+            "target": "r6",
+                 "_comment": "Tu manges le miroir"
+        },
+        {
+           "x": 0.738,
+           "y": 0.804,
+           "width": 0.132,
+            "height": 0.157,
+            "target": "r11",
+                 "_comment": "Tu vas te laver"
+        }
+    ]
+}

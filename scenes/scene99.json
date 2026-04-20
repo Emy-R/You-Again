@@ -1,0 +1,22 @@
+{
+    "image": "i99.png",
+    "_comment": "Tu arrives dans le parking et tu vois deux véhicules en face de toi, lequel décides-tu d’emprunter ?",
+    "zones": [
+        {
+             "x": 0.395,
+  "y": 0.529,
+  "width": 0.182,
+  "height": 0.208,
+            "target": "scene104",
+                 "_comment": "Tu t’enfonces dans les souterrains"
+        },
+        {
+            "x": 0.703,
+  "y": 0.697,
+  "width": 0.177,
+  "height": 0.153,
+            "target": "scene105",
+                "_comment": "Tu sors des souterrains"
+        }
+    ]
+}

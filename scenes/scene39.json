@@ -1,0 +1,35 @@
+{
+  "image": "i39.png",
+  "zones": [],
+  "animation": {
+    "duration": 7500,
+    "complete_target": "mort_7",
+    "objects":
+    [
+      {
+      "image": "Charles.png",
+      "scale": 1.2,
+      "movement": [
+        { "time": 0, "x": -0.286, "y": 0.741},
+        { "time": 6000, "x": -0.286, "y": 0.006},
+        { "time": 7500, "x": -0.286, "y": 0.006}
+        ]
+      },
+      {
+      "image": "Table_i39.png",
+      "scale": 1.2,
+      "movement": [
+          { "time": 0, "x": 0.007, "y": 0.006}
+        ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/slurp1.wav",
+      "trigger": "delay",
+      "delay": 6500,
+      "volume": 1
+    }
+  ]
+}

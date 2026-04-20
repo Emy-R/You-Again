@@ -1,0 +1,17 @@
+{
+  "image": "i131.png",
+  "zones": [],
+  "animation": {
+    "duration": 2000,
+    "complete_target": "mort_25",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/panpan.wav",
+      "trigger": "delay",
+      "delay": 500,
+      "volume": 0.8
+    }
+  ]
+}

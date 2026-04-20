@@ -1,0 +1,16 @@
+{
+  "image": "i29.png",
+  "zones": [],
+  "animation": {
+    "duration": 8000,
+    "complete_target": "scene30",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/mylifeispotatoes.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

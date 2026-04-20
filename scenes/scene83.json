@@ -1,0 +1,16 @@
+{
+  "image": "i83.png",
+  "zones": [],
+  "animation": {
+    "duration": 350,
+    "complete_target": "scene84",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/slurp1.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

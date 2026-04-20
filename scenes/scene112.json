@@ -1,0 +1,197 @@
+{
+  "image": "i112.png",
+  "zones": [],
+  "animation": {
+    "duration": 4000,
+    "complete_target": "mort_22",
+    "objects":
+    [
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": -0.2, "y": 0.5 },
+          { "time": 4000, "x": 0.65, "y": 0.5 }
+        ]
+      },
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": -0.2, "y": 0.55 },
+          { "time": 4000, "x": 0.62, "y": 0.55 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": -0.2, "y": 0.45 },
+          { "time": 4000, "x": 0.6, "y": 0.45 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": -0.2, "y": 0.6 },
+          { "time": 4000, "x": 0.6, "y": 0.5 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": -0.2, "y": 0.65 },
+          { "time": 4000, "x": 0.65, "y": 0.55 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": -0.2, "y": 0.5 },
+          { "time": 4000, "x": 0.54, "y": 0.5 }
+        ]
+      },
+
+
+
+
+
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 1000, "x": -0.2, "y": 0.5 },
+          { "time": 4000, "x": 0.55, "y": 0.5 }
+        ]
+      },
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 1000, "x": -0.2, "y": 0.55 },
+          { "time": 4000, "x": 0.52, "y": 0.55 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 1000, "x": -0.2, "y": 0.45 },
+          { "time": 4000, "x": 0.5, "y": 0.45 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 1000, "x": -0.2, "y": 0.6 },
+          { "time": 4000, "x": 0.5, "y": 0.5 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 1000, "x": -0.2, "y": 0.65 },
+          { "time": 4000, "x": 0.55, "y": 0.55 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 1000, "x": -0.2, "y": 0.5 },
+          { "time": 4000, "x": 0.52, "y": 0.5 }
+        ]
+      },
+
+
+
+
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 2000, "x": -0.2, "y": 0.5 },
+          { "time": 4000, "x": 0.45, "y": 0.5 }
+        ]
+      },
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 2000, "x": -0.2, "y": 0.55 },
+          { "time": 4000, "x": 0.42, "y": 0.55 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 2000, "x": -0.2, "y": 0.45 },
+          { "time": 4000, "x": 0.4, "y": 0.45 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 2000, "x": -0.2, "y": 0.6 },
+          { "time": 4000, "x": 0.4, "y": 0.5 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 2000, "x": -0.2, "y": 0.65 },
+          { "time": 4000, "x": 0.45, "y": 0.55 }
+        ]
+      },
+
+      {
+        "image": "Fourmi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 2000, "x": -0.2, "y": 0.5 },
+          { "time": 4000, "x": 0.42, "y": 0.5 }
+        ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/fourmi.wav",
+      "trigger": "start",
+      "volume": 0.75
+    },
+    {
+      "file": "son/fourmi.wav",
+      "trigger": "delay",
+      "delay": 1000,
+      "volume": 0.75
+    },
+    {
+      "file": "son/fourmi.wav",
+      "trigger": "delay",
+      "delay": 2000,
+      "volume": 0.75
+    }
+  ]
+}

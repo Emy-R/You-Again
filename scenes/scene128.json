@@ -1,0 +1,17 @@
+{
+  "image": "i128.png",
+  "zones": [],
+  "skippable": "scene136",
+  "animation": {
+    "duration": 1000,
+    "complete_target": "scene136",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/laser.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "image": "i98.png",
+    "_comment": "Tu arrives dans le parking et tu vois deux véhicules en face de toi, lequel décides-tu d’emprunter ?",
+    "zones": [
+        {
+            "x": 0.808,
+  "y": 0.692,
+  "width": 0.151,
+  "height": 0.093,
+            "target": "scene102",
+                 "_comment": "la golfette"
+        },
+        {
+            "x": 0.429,
+  "y": 0.857,
+  "width": 0.121,
+  "height": 0.089,
+            "target": "scene103",
+                "_comment": "la fusée"
+        }
+    ]
+}

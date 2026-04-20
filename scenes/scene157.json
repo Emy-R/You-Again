@@ -1,0 +1,22 @@
+{
+    "image": "i157.png",
+    "_comment": "Tu es devant le commissariat, que décides-tu de faire ?",
+    "zones": [
+        {
+  "x": 0.194,
+  "y": 0.768,
+  "width": 0.274,
+  "height": 0.124,
+  "target": "scene164",
+          "_comment": "Tu te laisses faire"
+},
+        {
+  "x": 0.676,
+  "y": 0.778,
+  "width": 0.286,
+  "height": 0.134,
+  "target": "scene165",
+          "_comment": "Tu pars en courant "
+}
+    ]
+}

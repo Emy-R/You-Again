@@ -1,0 +1,17 @@
+{
+  "image": "i210.png",
+  "zones": [],
+  "animation": {
+    "duration": 2000,
+    "complete_target": "mort_44",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/explosion_sorcier.wav",
+      "trigger": "delay",
+      "delay": 2000,
+      "volume": 1
+    }
+  ]
+}

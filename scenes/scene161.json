@@ -1,0 +1,22 @@
+{
+    "image": "i161.png",
+    "_comment": "Le burger te pointe vers une rivière de mayonnaise, où souhaites-tu aller ?",
+    "zones": [
+        {
+  "x": 0.038,
+  "y": 0.559,
+  "width": 0.143,
+  "height": 0.224,
+  "target": "scene167",
+          "_comment": "rivière"
+},
+        {
+  "x": 0.776,
+  "y": 0.590,
+  "width": 0.206,
+  "height": 0.172,
+  "target": "scene163",
+          "_comment": "ailleurs"
+}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "image": "i196.png",
+  "zones": [],
+  "animation": {
+    "duration": 2000,
+    "complete_target": "mort_39",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/fiou_long.wav",
+      "trigger": "delay",
+      "delay": 2000,
+      "volume": 0.5
+    }
+   ]
+}

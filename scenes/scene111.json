@@ -1,0 +1,22 @@
+{
+    "image": "i111.png",
+    "_comment": " Tu arrives devant un coffre impressionnant, que veux-tu faire ?",
+    "zones": [
+        {
+          "x": 0.342,
+  "y": 0.546,
+  "width": 0.127,
+  "height": 0.100,
+            "target": "scene116",
+                 "_comment": "l'ouvrir"
+        },
+        {
+            "x": 0.516,
+  "y": 0.746,
+  "width": 0.152,
+  "height": 0.122,
+            "target": "scene117",
+                "_comment": " le fermer"
+        }
+    ]
+}

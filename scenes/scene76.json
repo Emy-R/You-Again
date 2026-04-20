@@ -1,0 +1,22 @@
+{
+    "image": "i76.png",
+    "_comment": "En fouillant la mamie tu trouves un sandwich, que décides-tu de faire ?",
+    "zones": [
+        {
+  "x": 0.418,
+  "y": 0.508,
+  "width": 0.285,
+  "height": 0.163,
+  "target": "scene100",
+          "_comment": "tu manges le sandwich"
+},
+        {
+  "x": 0.699,
+  "y": 0.339,
+  "width": 0.242,
+  "height": 0.167,
+  "target": "scene101",
+          "_comment": "tu rentres"
+}
+    ]
+}

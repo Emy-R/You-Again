@@ -1,0 +1,14 @@
+{
+  "image": "iexpli3.png",
+  "_comment": "Aide le Père Noël à descendre la piste.Esquive les patates en te déplaçant avec les flèches !",
+  "zones": [
+    {
+      "x": 0.46,
+      "y": 0.78,
+      "width": 0.10,
+      "height": 0.08,
+      "target": "scene189_mg",
+      "_comment": "PRET ?"
+    }
+  ]
+}

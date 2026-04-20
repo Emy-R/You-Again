@@ -1,0 +1,17 @@
+{
+  "image": "i195.png",
+  "zones": [],
+  "animation": {
+    "duration": 500,
+    "complete_target": "lore_1",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/lore.wav",
+      "trigger": "start",
+      "volume": 0.25,
+      "loop": "true"
+    }
+  ]
+}

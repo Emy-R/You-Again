@@ -1,0 +1,20 @@
+{
+  "image": "i108.png",
+  "zones": [],
+  "animation": {
+    "duration": 4000,
+    "complete_target": "mort_20",
+    "objects":
+    [
+      {
+      "image": "Patate_spatiale.png",
+      "scale": 0.57,
+      "movement":
+      [
+        { "time": 0, "x": 2.3, "y": -0.9},
+        { "time": 4000, "x": 0, "y": 0.1}
+      ]
+      }
+    ]
+  }
+}

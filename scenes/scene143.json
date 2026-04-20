@@ -1,0 +1,22 @@
+{
+  "image": "i143.png",
+  "zones": [],
+  "animation": {
+    "duration": 3000,
+    "complete_target": "scene150",
+    "objects": []
+  },
+  "sounds": [
+      {
+      "file": "son/scooter2.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/vroom.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.25
+    }
+  ]
+}

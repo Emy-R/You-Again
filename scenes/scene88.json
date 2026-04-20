@@ -1,0 +1,16 @@
+{
+  "image": "i88.png",
+  "zones": [],
+  "animation": {
+    "duration": 350,
+    "complete_target": "mort_17",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/slurp6.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

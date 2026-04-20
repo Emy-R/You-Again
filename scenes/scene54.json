@@ -1,0 +1,19 @@
+{
+  "image": "i54.png",
+  "zones": [],
+  "animation": {
+    "duration": 6000,
+    "complete_target": "scene55",
+    "objects":
+    [
+      {
+        "image": "Moi_main_tendu.png",
+        "scale": 0.53,
+        "movement": [
+          { "time": 0, "x": 0.582, "y": 0.27 },
+          { "time": 6000, "x": 0.13, "y": 0.35 }
+        ]
+      }
+    ]
+  }
+}

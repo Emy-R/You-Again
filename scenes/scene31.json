@@ -1,0 +1,22 @@
+{
+    "image": "i31.png",
+    "_comment": "Tu arrives devant ta boîte aux lettres, que décides-tu de faire ?",
+    "zones": [
+        {
+            "x": 0.507,
+            "y": 0.558,
+           "width": 0.153,
+            "height": 0.174,
+            "target": "scene32",
+                  "_comment": "prendre le courrier"
+        },
+        {
+            "x": 0.731,
+            "y": 0.656,
+            "width": 0.174,
+            "height": 0.191,
+            "target": "scene34",
+            "_comment": "ne pas prendre le courrier"
+        }
+    ]
+}

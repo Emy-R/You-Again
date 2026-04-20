@@ -1,0 +1,30 @@
+{
+    "image": "i63.png",
+    "_comment": "Tu remarques après avoir dévoré à de nombreuses reprises l’herbe qu’il y a un trou dans ton jardin, que décides-tu de faire ?",
+    "zones": [
+        {
+  "x": 0.279,
+  "y": 0.417,
+  "width": 0.231,
+  "height": 0.170,
+  "target": "scene54",
+            "_comment": "tu touches le trophee"
+        },
+        {
+  "x": 0.556,
+  "y": 0.449,
+  "width": 0.349,
+  "height": 0.092,
+  "target": "scene64",
+            "_comment": "tu sautes dans le trou"
+        },
+        {
+  "x": 0.814,
+  "y": 0.619,
+  "width": 0.186,
+  "height": 0.161,
+  "target": "scene56",
+            "_comment": "tu touches le buisson"
+        }
+    ]
+}

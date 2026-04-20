@@ -1,0 +1,16 @@
+{
+  "image": "i24.png",
+  "zones": [],
+  "animation": {
+    "duration": 1250,
+    "complete_target": "scene25",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/manger.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

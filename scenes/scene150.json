@@ -1,0 +1,22 @@
+{
+  "image": "i150.png",
+  "zones": [],
+  "animation": {
+    "duration": 4000,
+    "complete_target": "mort_27",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/explosion_sorcier.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/feu.wav",
+      "trigger": "delay",
+      "delay": 3500,
+      "volume": 1
+    }
+  ]
+}

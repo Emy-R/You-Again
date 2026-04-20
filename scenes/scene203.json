@@ -1,0 +1,18 @@
+{
+  "image": "i203.png",
+  "zones": [],
+  "fade": "out",
+  "animation": {
+    "duration": 5000,
+    "complete_target": "mort_40",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/vomi.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}
+

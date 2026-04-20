@@ -1,0 +1,45 @@
+{
+  "image": "i102.png",
+  "zones": [],
+  "animation": {
+    "duration": 6200,
+    "complete_target": "mort_18",
+    "objects":
+    [
+      {
+      "image": "Voiture_golf_moi.png",
+      "scale": 0.5,
+      "movement":
+      [
+        { "time": 0, "x": -0.5, "y": 0.32},
+        { "time": 6000, "x": 0.27, "y": 0.32}
+      ]
+      },
+
+      {
+      "image": "voiture_de_police.png",
+      "scale": 0.49,
+      "movement":
+      [
+        { "time": 0, "x": 2, "y": 0.48},
+        { "time": 5000, "x": 2, "y": 0.48},
+        { "time": 6200, "x": 0.38, "y": 0.48}
+      ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/police.wav",
+      "trigger": "start",
+      "volume": 1,
+      "loop": "true"
+    },
+    {
+      "file": "son/explosion_voiture.wav",
+      "trigger": "delay",
+      "delay": 5800,
+      "volume": 1
+    }
+  ]
+}

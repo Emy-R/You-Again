@@ -1,0 +1,18 @@
+{
+  "image": "i4.png",
+  "zones": [],
+  "skippable": "r5",
+  "fade":"out",
+  "animation": {
+    "duration": 7500,
+    "complete_target": "r5",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/dodo.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

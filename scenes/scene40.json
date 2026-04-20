@@ -1,0 +1,22 @@
+{
+    "image": "i40.png",
+    "_comment": "Tu regardes cette émission qui est plutôt intéressante, que décides tu de faire maintenant ?",
+    "zones": [
+        {
+            "x": 0.704,
+            "y": 0.499,
+            "width": 0.179,
+            "height": 0.138,
+            "target": "scene41",
+                "_comment": "Continuer à regarder l’émission"
+        },
+        {
+            "x": 0.825,
+            "y": 0.776,
+            "width": 0.145,
+            "height": 0.131,
+            "target": "scene42",
+                 "_comment": "Arrêter de regarder"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "image": "i120.png",
+  "zones": [],
+  "skippable": "victoire_1",
+  "sounds": [
+    {
+      "file": "son/victoire.wav",
+      "trigger": "start",
+      "volume": 0.75
+    },
+    {
+      "file": "son/applaudissement.wav",
+      "trigger": "start",
+      "volume": 0.5
+    }
+  ]
+}

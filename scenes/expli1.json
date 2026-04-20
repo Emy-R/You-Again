@@ -1,0 +1,14 @@
+{
+  "image": "iexpli1.png",
+  "_comment": "Deplace la souris pour couper les patates ! Ne sacrifie surtout pas Cacahuete. ",
+  "zones": [
+    {
+      "x": 0.45,
+      "y": 0.58,
+      "width": 0.10,
+      "height": 0.08,
+      "target": "scene227",
+      "_comment": "PRET ?"
+    }
+  ]
+}

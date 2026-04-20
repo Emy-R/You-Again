@@ -1,0 +1,30 @@
+{
+    "image": "i103.png",
+    "_comment": "Tu es à présent dans l’espace et tu vois que 3 planètes sont accessibles, sur laquelle tu décides d'atterrir ?",
+    "zones": [
+        {
+            "x": 0.050,
+  "y": 0.708,
+  "width": 0.180,
+  "height": 0.113,
+            "target": "scene108",
+                 "_comment": "Planète dauphinoise"
+        },
+        {
+          "x": 0.366,
+  "y": 0.674,
+  "width": 0.188,
+  "height": 0.114,
+            "target": "scene109",
+                "_comment": "planète zgu"
+        },
+      {
+        "x": 0.755,
+  "y": 0.678,
+  "width": 0.213,
+  "height": 0.101,
+         "target": "scene110",
+               "_comment": "Planète h0kbcdX4H7DH"
+      }
+    ]
+}

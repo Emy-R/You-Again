@@ -1,0 +1,22 @@
+{
+    "image": "i155.png",
+    "_comment": "Tu te rends compte que le portail s’est refermé, tu es piégé pour l’instant, que décides-tu de faire ?",
+    "zones": [
+        {
+  "x": 0.341,
+  "y": 0.664,
+  "width": 0.286,
+  "height": 0.198,
+  "target": "scene154",
+          "_comment": "Tu vas parler à un burger"
+},
+        {
+  "x": 0.675,
+  "y": 0.683,
+  "width": 0.270,
+  "height": 0.166,
+  "target": "scene163",
+          "_comment": "Tu pars explorer"
+}
+    ]
+}

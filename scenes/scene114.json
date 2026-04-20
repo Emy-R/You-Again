@@ -1,0 +1,30 @@
+{
+    "image": "i114.png",
+    "_comment": "La police t’embarque. Dans la voiture, ils te demandent si tu aimes les pommes de terre, que fais-tu ?",
+    "zones": [
+        {
+            "x": 0.310,
+  "y": 0.799,
+  "width": 0.120,
+  "height": 0.196,
+             "target": "scene122",
+                 "_comment": "Tu réponds non"
+        },
+        {
+          "x": 0.566,
+  "y": 0.822,
+  "width": 0.166,
+  "height": 0.144,
+            "target": "scene123",
+                "_comment": "Tu fais une sieste"
+        }
+    ],
+  "sounds": [
+    {
+      "file": "son/vroom.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.25
+    }
+  ]
+}

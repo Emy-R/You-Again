@@ -1,0 +1,24 @@
+{
+    "image": "i5.png",
+    "_comment": "Tu te réveilles plus tard et tu remarques que le sorcier est parti, que fais-tu ?",
+  "fade": "in",
+  "animation": { "duration": 2000, "objects": [] },
+    "zones": [
+        {
+           "x": 0.077,
+           "y": 0.654,
+           "width": 0.198,
+           "height": 0.140,
+           "target": "scene6",
+               "_comment": "tu vas prendre une douche"
+        },
+        {
+           "x": 0.310,
+           "y": 0.792,
+           "width": 0.132,
+           "height": 0.154,
+           "target": "scene9",
+                 "_comment": "tu vas te raser"
+        }
+    ]
+}

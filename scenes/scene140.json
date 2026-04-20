@@ -1,0 +1,34 @@
+{
+    "image": "i140.png",
+    "_comment": "Le Dieu des maths apparaît et te demande combien font 2+2, que réponds-tu ?",
+    "zones": [
+        {
+  "x": 0.239,
+  "y": 0.656,
+  "width": 0.220,
+  "height": 0.118,
+  "target": "scene145",
+          "_comment": "3"
+},
+        {
+  "x": 0.250,
+  "y": 0.830,
+  "width": 0.204,
+  "height": 0.112,
+  "target": "scene146",
+          "_comment": "4"
+}
+    ],
+  "sounds": [
+    {
+      "file": "son/glouglou.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/glouglou.wav",
+      "trigger": "start",
+      "volume": 0.5
+    }
+  ]
+}

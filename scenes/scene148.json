@@ -1,0 +1,16 @@
+{
+  "image": "i148.png",
+  "zones": [],
+  "animation": {
+    "duration": 1500,
+    "complete_target": "scene153",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/mirroir.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

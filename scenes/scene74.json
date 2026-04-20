@@ -1,0 +1,14 @@
+{
+    "image": "i74.png",
+  "_comment": "Burger man te demande un sandwich",
+    "zones": [
+        {
+  "x": 0.745,
+  "y": 0.480,
+  "width": 0.232,
+  "height": 0.142,
+  "target": "scene75",
+          "_comment": "tu ne lui donne rien"
+}
+    ]
+}

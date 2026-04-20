@@ -1,0 +1,38 @@
+{
+  "image": "i165.png",
+  "zones": [],
+  "animation": {
+    "duration": 5000,
+    "complete_target": "mort_31",
+    "objects":
+    [
+      {
+      "image": "Moi.png",
+      "scale": 0.6,
+      "movement":
+      [
+        { "time": 0, "x": -0.2, "y": 0.4},
+        { "time": 4000, "x": 1.2, "y": 0.4}
+      ]
+      },
+
+      {
+      "image": "policier_en_colere.png",
+      "scale": 0.9,
+      "movement":
+      [
+        { "time": 0, "x": -0.5, "y": 0.4},
+        { "time": 5000, "x": 1, "y": 0.4}
+      ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/panpan.wav",
+      "trigger": "delay",
+      "delay": 3500,
+      "volume": 0.8
+    }
+   ]
+}

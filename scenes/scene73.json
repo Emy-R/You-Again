@@ -1,0 +1,16 @@
+{
+  "image": "i73.png",
+  "zones": [],
+  "animation": {
+    "duration": 1500,
+    "complete_target": "mort_15",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/taupe.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

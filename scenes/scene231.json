@@ -1,0 +1,16 @@
+{
+  "image": "i231.png",
+  "zones": [],
+  "animation": {
+    "duration": 350,
+    "complete_target": "scene232",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/slurp3.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

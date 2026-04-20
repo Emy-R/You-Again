@@ -1,0 +1,23 @@
+{
+  "image": "i66.png",
+  "zones": [],
+  "skippable": "scene72",
+  "animation": {
+    "duration": 1500,
+    "complete_target": "scene67",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/pop.wav",
+      "trigger": "delay",
+      "delay": 750,
+      "volume": 1
+    },
+    {
+      "file": "son/fiou.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

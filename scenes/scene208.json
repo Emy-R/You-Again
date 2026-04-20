@@ -1,0 +1,21 @@
+{
+    "image": "i208.png",
+    "codes": {
+        "911": "scene220",
+        "063605248167": "scene221",
+        "06 36 05 24 81 67": "scene221"
+    },
+    "on_error": "scene236",
+    "input_pos": { "x": 0.5, "y": 0.6},
+    "text_color": [255, 255, 255],
+    "zones": [
+        {
+            "x": 0.381,
+            "y": 0.158,
+            "width": 0.056,
+            "height": 0.085,
+            "target": "scene201",
+            "comment": "revenir en arrière"
+        }
+    ]
+}

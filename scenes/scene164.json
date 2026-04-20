@@ -1,0 +1,10 @@
+{
+    "image": "i164.png",
+    "input_pos": { "x": 0.6, "y": 0.6 },
+    "text_color": [255, 255, 255],
+    "codes": {
+        "code_secret": "scene169"
+    },
+    "on_error": "scene170",
+    "zones": []
+}

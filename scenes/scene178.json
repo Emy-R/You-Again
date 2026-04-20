@@ -1,0 +1,22 @@
+{
+    "image": "i178.png",
+    "_comment": "grp de frites attaque devant le temple",
+    "zones": [
+        {
+  "x": 0.012,
+  "y": 0.808,
+  "width": 0.180,
+  "height": 0.173,
+  "target": "scene212",
+          "_comment": "tu sacrifie cacahuète"
+},
+        {
+  "x": 0.432,
+  "y": 0.812,
+  "width": 0.136,
+  "height": 0.157,
+  "target": "mort_37",
+          "_comment": "tu te sacrifie"
+}
+    ]
+}

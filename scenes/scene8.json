@@ -1,0 +1,17 @@
+{
+  "image": "i8.png",
+  "zones": [],
+  "skippable": "scene12",
+  "animation": {
+    "duration": 2750,
+    "complete_target": "scene12",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/douche.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

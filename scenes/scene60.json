@@ -1,0 +1,22 @@
+{
+    "image": "i60.png",
+    "_comment": "Le chat te ramène devant chez toi, que fais-tu maintenant ?",
+    "zones": [
+        {
+  "x": 0.032,
+  "y": 0.849,
+  "width": 0.276,
+  "height": 0.114,
+  "target": "scene97",
+            "_comment": "tondre le gazon"
+        },
+        {
+  "x": 0.618,
+  "y": 0.859,
+  "width": 0.342,
+  "height": 0.109,
+  "target": "scene98",
+            "_comment": "aller dans ton parking"
+        }
+    ]
+}

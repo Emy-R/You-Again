@@ -1,0 +1,16 @@
+{
+  "image": "i233.png",
+  "zones": [],
+  "animation": {
+    "duration": 350,
+    "complete_target": "scene234",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/slurp5.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

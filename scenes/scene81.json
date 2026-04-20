@@ -1,0 +1,17 @@
+{
+  "image": "i81.png",
+  "zones": [],
+  "skippable": "scene19",
+  "animation": {
+    "duration": 500,
+    "complete_target": "scene82",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/pas1.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

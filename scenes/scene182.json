@@ -1,0 +1,28 @@
+{
+  "image": "i182.png",
+  "zones": [],
+  "animation": {
+    "duration": 2500,
+    "complete_target": "mort_35",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/mayonnaise.wav",
+      "trigger": "start",
+      "volume": 1
+    },
+    {
+      "file": "son/glouglou.wav",
+      "trigger": "delay",
+      "delay": 1000,
+      "volume": 1
+    },
+    {
+      "file": "son/glouglou.wav",
+      "trigger": "delay",
+      "delay": 1000,
+      "volume": 0.5
+    }
+  ]
+}

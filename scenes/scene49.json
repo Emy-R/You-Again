@@ -1,0 +1,43 @@
+{
+  "image": "i49.png",
+  "zones": [],
+  "skippable": "scene60",
+  "animation": {
+    "duration": 7000,
+    "complete_target": "scene60",
+    "objects":
+    [
+      {
+        "image": "Tapis_chat_moi.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": -0.5, "y": -0.5 },
+          { "time": 4000, "x": 0.276, "y": 0.409 },
+          { "time": 4500, "x": 0.276, "y": 0.409 },
+          { "time": 4520, "x": 0.276, "y": 88888 }
+        ]
+      },
+      {
+        "image": "Tapis_chat.png",
+        "scale": 0.3,
+        "movement": [
+          { "time": 0, "x": 0.276, "y": 555 },
+          { "time": 4370, "x": 0.276, "y": 0.409 },
+          { "time": 5000, "x":  0.276, "y":  0.409},
+          { "time": 9000, "x": 2, "y": -2.1 }
+        ]
+      },
+
+      {
+        "image": "Moi.png",
+        "scale": 0.25199,
+        "movement": [
+          { "time": 0, "x": 0.276, "y": 555 },
+          { "time": 4500, "x": 0.278, "y": 0.585 },
+          { "time": 5000, "x":  0.278, "y":  0.585 }
+        ]
+      }
+
+    ]
+  }
+}

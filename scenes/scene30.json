@@ -1,0 +1,28 @@
+{
+  "image": "i30.png",
+  "zones": [],
+  "animation": {
+    "duration": 1000,
+    "complete_target": "mort_5",
+    "objects":
+    [
+      {
+        "image": "Patate.png",
+        "scale": 0.57,
+        "movement": [
+          { "time": 0, "x": 0.385, "y": -0.055 },
+          { "time": 1000, "x": 0.104, "y": 0.277 }
+
+        ]
+      }
+
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/tele_brise.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

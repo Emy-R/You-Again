@@ -1,0 +1,22 @@
+{
+    "image": "i61.png",
+    "_comment": "La mamie est au sol, tu es victorieux. Que fais-tu ?",
+    "zones": [
+        {
+  "x": 0.417,
+  "y": 0.389,
+  "width": 0.214,
+  "height": 0.173,
+  "target": "scene62",
+            "_comment": "tu retournes chez toi"
+        },
+        {
+  "x": 0.682,
+  "y": 0.390,
+  "width": 0.238,
+  "height": 0.160,
+  "target": "scene70",
+            "_comment": "tu manges la lettre"
+        }
+    ]
+}

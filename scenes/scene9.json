@@ -1,0 +1,22 @@
+{
+    "image": "i9.png",
+    "_comment": "Tu vas devant ton miroir dans ta salle de bain pour te raser, que fais-tu maintenant ?",
+    "zones": [
+        {
+            "x": 0.013,
+            "y": 0.583,
+            "width": 0.262,
+            "height": 0.147,
+            "target": "scene11",
+                 "_comment": "Tu manges le miroir comme un idiot"
+        },
+        {
+          "x": 0.314,
+          "y": 0.810,
+          "width": 0.156,
+          "height": 0.093,
+          "target": "scene10",
+               "comment": "Tu te rases"
+        }
+    ]
+}

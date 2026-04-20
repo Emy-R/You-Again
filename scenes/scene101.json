@@ -1,0 +1,22 @@
+{
+    "image": "i101.png",
+    "_comment": "Tu arrives dans le parking et tu vois deux véhicules en face de toi, lequel décides-tu d’emprunter ?",
+    "zones": [
+        {
+  "x": 0.056,
+  "y": 0.796,
+  "width": 0.183,
+  "height": 0.190,
+            "target": "scene75",
+                 "_comment": "Tu ne lui donne rien"
+        },
+        {
+  "x": 0.599,
+  "y": 0.861,
+  "width": 0.369,
+  "height": 0.129,
+            "target": "scene118",
+                "_comment": "Tu lui donne le sandwich"
+        }
+    ]
+}

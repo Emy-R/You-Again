@@ -1,0 +1,28 @@
+{
+  "image": "i3.png",
+  "zones": [],
+  "animation": {
+    "duration": 3000,
+    "complete_target": "mort_1",
+    "objects": [
+      {
+        "image": "moi.png",
+        "scale": 0.42,
+        "movement": [
+          { "time": 0, "x": 0.417, "y": 0.55},
+          { "time": 2000, "x": 0.208, "y": 0.55 },
+          { "time": 3000, "x": 0.208, "y": 0.37 }
+        ]
+      },
+      {
+        "image": "Patate.png",
+        "scale": 0.4,
+        "movement": [
+          { "time": 0, "x": 2.604, "y": -0.741 },
+          { "time": 1700, "x": 2.604, "y": -0.741 },
+          { "time": 3000, "x": 0.072, "y": 0.37 }
+        ]
+      }
+    ]
+  }
+}

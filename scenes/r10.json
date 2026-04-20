@@ -1,0 +1,17 @@
+{
+  "image": "i10.png",
+  "zones": [],
+  "skippable": "r17",
+  "animation": {
+    "duration": 1500,
+    "complete_target": "r17",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/rasoir.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

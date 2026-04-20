@@ -1,0 +1,22 @@
+{
+    "image": "i22.png",
+    "_comment": "Tu es à table ! Que veux-tu manger à présent ?",
+    "zones": [
+        {
+            "x": 0.645,
+            "y": 0.225,
+            "width": 0.189,
+            "height": 0.212,
+            "target": "scene23",
+                "_comment": "Un petit déjeuner au chocolat"
+        },
+        {
+            "x": 0.811,
+            "y": 0.511,
+            "width": 0.174,
+            "height": 0.093,
+            "target": "scene24",
+                 "comment": "Du dentifrice"
+        }
+    ]
+}

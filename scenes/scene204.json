@@ -1,0 +1,22 @@
+{
+    "image": "i204.png",
+    "_comment": "sorcier a tué tt le monde, où est la lettre ?",
+    "zones": [
+        {
+  "x": 0.034,
+  "y": 0.331,
+  "width": 0.224,
+  "height": 0.154,
+  "target": "scene209",
+          "_comment": "mangé"
+},
+        {
+  "x": 0.036,
+  "y": 0.551,
+  "width": 0.224,
+  "height": 0.188,
+  "target": "scene210",
+          "_comment": "tire la langue"
+}
+    ]
+}

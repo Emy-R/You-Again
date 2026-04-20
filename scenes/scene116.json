@@ -1,0 +1,17 @@
+{
+  "image": "i116.png",
+  "zones": [],
+  "skippable" : "scene135",
+  "animation": {
+    "duration": 1200,
+    "complete_target": "scene127",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/coffre.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

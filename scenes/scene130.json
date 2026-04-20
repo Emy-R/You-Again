@@ -1,0 +1,38 @@
+{
+    "image": "i130.png",
+    "_comment": "Tu te réveilles et tu vois le sorcier en scooter, que décides-tu de faire ?",
+    "fade": "in",
+  "animation": { "duration": 1500, "objects": [] },
+  "zones": [
+        {
+  "x": 0.824,
+  "y": 0.672,
+  "width": 0.160,
+  "height": 0.162,
+  "target": "scene137",
+          "_comment": "Baisser la vitre "
+},
+        {
+  "x": 0.674,
+  "y": 0.799,
+  "width": 0.124,
+  "height": 0.174,
+  "target": "scene138",
+          "_comment": "Tirer la langue"
+}
+    ],
+  "sounds": [
+      {
+      "file": "son/scooter1.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.5
+    },
+    {
+      "file": "son/vroom.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.25
+    }
+  ]
+}

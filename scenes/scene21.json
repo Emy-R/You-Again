@@ -1,0 +1,23 @@
+{
+    "image": "i21.png",
+    "_comment": "Tu tombes devant ta maison et tu te releves, que decides-tu de faire maintenant ?",
+    "zones": [
+        {
+  "x": 0.005,
+  "y": 0.424,
+  "width": 0.198,
+  "height": 0.250,
+
+            "target": "scene31",
+            "_comment": "tu vas chercher ton courrier"
+        },
+        {
+  "x": 0.797,
+  "y": 0.424,
+  "width": 0.200,
+  "height": 0.209,
+            "target": "scene35",
+            "_comment": "tu vas dans ton jardin"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "image": "i187.png",
+  "zones": [],
+  "skippable": "scene190",
+  "animation": {
+    "duration": 2500,
+    "complete_target": "scene190",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/angelique.wav",
+      "trigger": "start",
+      "volume": 0.5
+    }
+  ]
+}

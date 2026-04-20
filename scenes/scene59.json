@@ -1,0 +1,30 @@
+{
+    "image": "i59.png",
+    "_comment": "Tu es confortablement installé sur ton fauteuil, que veux-tu regarder ?",
+    "zones": [
+        {
+  "x": 0.766,
+  "y": 0.037,
+  "width": 0.216,
+  "height": 0.297,
+  "target": "scene29",
+            "_comment": "food network"
+        },
+        {
+  "x": 0.758,
+  "y": 0.388,
+  "width": 0.224,
+  "height": 0.229,
+  "target": "scene40",
+            "_comment": "judge judy"
+        },
+        {
+  "x": 0.704,
+  "y": 0.652,
+  "width": 0.276,
+  "height": 0.236,
+  "target": "scene68",
+            "_comment": "chaine mystérieuse"
+        }
+    ]
+}

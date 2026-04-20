@@ -1,0 +1,14 @@
+{
+  "image": "iexpli2.png",
+  "_comment": "Surveille la bulle de pensee.Clique quand Cacahuète pense à toi… mais ne te trompe pas ! ",
+  "zones": [
+    {
+      "x": 0.45,
+      "y": 0.63,
+      "width": 0.10,
+      "height": 0.08,
+      "target": "scene168",
+      "_comment": "PRET ?"
+    }
+  ]
+}

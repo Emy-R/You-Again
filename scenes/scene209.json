@@ -1,0 +1,39 @@
+{
+  "image": "i209.png",
+  "zones": [],
+  "animation": {
+    "duration": 10800,
+    "complete_target": "mort_43",
+    "objects":
+    [
+
+      {
+      "image": "Charles.png",
+      "scale": 0.8,
+      "movement": [
+        { "time": 0, "x": -0.06, "y": 0.58},
+        { "time": 1000, "x": -0.06, "y": 0.58},
+        { "time": 9000, "x": -0.06, "y": 0.139},
+        { "time": 10800, "x": -0.06, "y": 0.139}
+
+        ]
+      },
+
+      {
+      "image": "Table_interrogatoire.png",
+      "scale": 1.2,
+      "movement": [
+        { "time": 0, "x": 0, "y": 0}
+        ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/slurp5.wav",
+      "trigger": "delay",
+      "delay": 9750,
+      "volume": 1
+    }
+  ]
+}

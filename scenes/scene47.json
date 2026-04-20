@@ -1,0 +1,22 @@
+{
+    "image": "i47.png",
+    "_comment": "Le roi Charles troisième du nom sort derrière la télé et te course. Tu t’enfuis mais un chat sur un tapis volant débarque et te sauve au dernier moment. Il te demande 5$ en dédommagement.",
+    "zones": [
+        {
+  "x": 0.709,
+  "y": 0.168,
+  "width": 0.204,
+  "height": 0.088,
+  "target": "scene48",
+            "_comment": "tu le payes"
+        },
+        {
+  "x": 0.684,
+  "y": 0.337,
+  "width": 0.255,
+  "height": 0.158,
+  "target": "scene50",
+            "_comment": "tu refuses de le payer"
+        }
+    ]
+}

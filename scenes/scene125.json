@@ -1,0 +1,17 @@
+{
+  "image": "i125.png",
+  "zones": [],
+  "skippable": "scene106",
+  "animation": {
+    "duration": 1000,
+    "complete_target": "scene132",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/frappe.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

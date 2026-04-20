@@ -1,0 +1,22 @@
+{
+    "image": "i110.png",
+    "_comment": "Tu arrives sur la planète mystérieuse et un blob interdimensionnel menaçant débarque, que fais-tu ?\n",
+    "zones": [
+        {
+             "x": 0.297,
+  "y": 0.610,
+  "width": 0.232,
+  "height": 0.136,
+            "target": "scene103",
+                 "_comment": "Tu t’enfuis dans ta fusée"
+        },
+        {
+            "x": 0.761,
+  "y": 0.762,
+  "width": 0.214,
+  "height": 0.107,
+            "target": "expli4",
+                "_comment": "Tu suis le blob/victoire"
+        }
+    ]
+}

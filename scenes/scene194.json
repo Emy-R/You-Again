@@ -1,0 +1,22 @@
+{
+    "image": "i194.png",
+    "_comment": "chat propose 2 articles",
+    "zones": [
+        {
+  "x": 0.783,
+  "y": 0.371,
+  "width": 0.204,
+  "height": 0.143,
+  "target": "scene202",
+          "_comment": "pistolet"
+},
+        {
+  "x": 0.780,
+  "y": 0.599,
+  "width": 0.209,
+  "height": 0.124,
+  "target": "scene214",
+          "_comment": "téléphone"
+}
+    ]
+}

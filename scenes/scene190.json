@@ -1,0 +1,22 @@
+{
+    "image": "i190.png",
+    "_comment": "recupère 10 euros",
+    "zones": [
+        {
+  "x": 0.057,
+  "y": 0.363,
+  "width": 0.287,
+  "height": 0.180,
+  "target": "scene197",
+          "_comment": "toucher encore le nuage"
+},
+        {
+  "x": 0.702,
+  "y": 0.097,
+  "width": 0.207,
+  "height": 0.134,
+  "target": "scene198",
+          "_comment": "se ballader"
+}
+    ]
+}

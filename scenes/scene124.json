@@ -1,0 +1,16 @@
+{
+  "image": "i124.png",
+  "zones": [],
+  "animation": {
+    "duration": 1000,
+    "complete_target": "scene131",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/frappe.wav",
+      "trigger": "start",
+      "volume": 0.75
+    }
+  ]
+}

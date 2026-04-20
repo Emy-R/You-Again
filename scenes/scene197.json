@@ -1,0 +1,40 @@
+{
+  "image": "i197.png",
+  "zones": [],
+  "animation": {
+    "duration": 7500,
+    "complete_target": "mort_38",
+    "objects":
+    [
+
+      {
+      "image": "Charles_mirror_.png",
+      "scale": 0.45,
+      "movement": [
+        { "time": 0, "x": 0.61, "y": 0.692},
+        { "time": 6000, "x": 0.61, "y": 0.44},
+        { "time": 7000, "x": 0.61, "y": 0.44}
+        ]
+      },
+
+
+      {
+      "image": "Nuage_pour_i197.png",
+      "scale": 1.2,
+      "movement":
+      [
+        { "time": 0, "x": 0.1975, "y": 0.303},
+        { "time": 7000, "x": 0.1975, "y": 0.303}
+
+      ]
+      }
+    ]
+  },"sounds": [
+    {
+      "file": "son/slurp2.wav",
+      "trigger": "delay",
+      "delay": 6500,
+      "volume": 1
+    }
+  ]
+}

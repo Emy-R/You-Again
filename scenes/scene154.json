@@ -1,0 +1,22 @@
+{
+    "image": "i154.png",
+    "_comment": "Le burger te dit Salade Tomate, qu’est-ce que tu lui réponds ?",
+    "zones": [
+        {
+  "x": 0.038,
+  "y": 0.601,
+  "width": 0.136,
+  "height": 0.207,
+  "target": "scene161",
+          "_comment": "salade"
+},
+        {
+  "x": 0.778,
+  "y": 0.616,
+  "width": 0.196,
+  "height": 0.170,
+  "target": "scene162",
+          "_comment": "tomate"
+}
+    ]
+}

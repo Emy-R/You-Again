@@ -1,0 +1,22 @@
+{
+    "image": "i96.png",
+    "_comment": "Tu es devant ta maison, que décides-tu de faire maintenant ?",
+    "zones": [
+        {
+  "x": 0.572,
+  "y": 0.850,
+  "width": 0.404,
+  "height": 0.126,
+            "target": "scene31",
+                 "_comment": "Tu vas chercher ton courrier"
+        },
+        {
+  "x": 0.083,
+  "y": 0.803,
+  "width": 0.182,
+  "height": 0.183,
+            "target": "scene35",
+                "_comment": "Tu vas dans ton jardin"
+        }
+    ]
+}

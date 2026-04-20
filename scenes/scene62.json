@@ -1,0 +1,29 @@
+{
+  "image": "i62.png",
+  "zones": [],
+  "animation": {
+    "duration": 4000,
+    "complete_target": "mort_12",
+    "objects":
+    [
+      {
+      "image": "Moi.png",
+      "scale": 0.3,
+      "movement": [
+        { "time": 0, "x": 0.7, "y": 0.7},
+        { "time": 4000, "x": 0.37, "y": 0.57}
+        ]
+      },
+
+      {
+      "image": "Patate.png",
+      "scale": 0.32,
+      "movement":
+      [
+        { "time": 0, "x": -2.3, "y": -1.8},
+        { "time": 4000, "x": 0.41, "y": 0.6}
+        ]
+      }
+    ]
+  }
+}

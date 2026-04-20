@@ -1,0 +1,14 @@
+{
+    "image": "i180.png",
+    "_comment": "devant le chat sur un nuage, demande 10 euros",
+    "zones": [
+        {
+  "x": 0.583,
+  "y": 0.628,
+  "width": 0.135,
+  "height": 0.124,
+  "target": "scene196",
+          "_comment": "rien"
+}
+    ]
+}

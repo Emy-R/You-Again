@@ -1,0 +1,22 @@
+{
+    "image": "i72.png",
+  "_comment": "dans les souterrains les taupes te demandent de te casser",
+    "zones": [
+        {
+  "x": 0.228,
+  "y": 0.406,
+  "width": 0.126,
+  "height": 0.097,
+  "target": "scene99",
+          "_comment": "tu pars"
+},
+        {
+  "x": 0.467,
+  "y": 0.417,
+  "width": 0.144,
+  "height": 0.078,
+  "target": "scene73",
+          "_comment": "tu restes"
+}
+    ]
+}

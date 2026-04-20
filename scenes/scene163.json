@@ -1,0 +1,21 @@
+{
+    "image": "i163.png",
+    "_comment": "rencontre Cacahuète",
+    "zones": [
+        {
+  "x": 0.047,
+  "y": 0.633,
+  "width": 0.147,
+  "height": 0.184,
+  "target": "expli2",
+          "_comment": "date" } ,
+        {
+  "x": 0.751,
+  "y": 0.638,
+  "width": 0.203,
+  "height": 0.177,
+  "target": "scene167",
+          "_comment": "ignorer"
+}
+    ]
+}

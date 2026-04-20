@@ -1,0 +1,29 @@
+{
+    "image": "i12.png",
+    "_comment": "(Après la douche) Tu es super propre ! Que fais-tu maintenant ?",
+    "zones": [
+        {
+           "x": 0.587,
+           "y": 0.479,
+           "width": 0.170,
+           "height": 0.163,
+           "target": "scene18",
+                "_comment": "Tu descend les escaliers"
+        },{
+            "x": 0.797,
+            "y": 0.669,
+            "width": 0.184,
+            "height": 0.160,
+            "target": "scene13",
+                  "_comment": "Tu te jettes par la fenêtre"
+        }
+    ],
+  "sounds": [
+    {
+      "file": "son/douche.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.5
+    }
+  ]
+}

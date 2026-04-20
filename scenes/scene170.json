@@ -1,0 +1,22 @@
+{
+    "image": "i170.png",
+    "_comment": "interrogatoire, mamie morte ou assommée",
+    "zones": [
+        {
+  "x": 0.016,
+  "y": 0.457,
+  "width": 0.171,
+  "height": 0.120,
+  "target": "scene176",
+          "_comment": "morte"
+},
+        {
+  "x": 0.795,
+  "y": 0.419,
+  "width": 0.181,
+  "height": 0.190,
+  "target": "scene177",
+          "_comment": "assommee"
+}
+    ]
+}

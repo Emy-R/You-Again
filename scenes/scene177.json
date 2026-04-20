@@ -1,0 +1,22 @@
+{
+    "image": "i177.png",
+    "_comment": "pourquoi ?",
+    "zones": [
+        {
+  "x": 0.761,
+  "y": 0.114,
+  "width": 0.209,
+  "height": 0.152,
+  "target": "scene192",
+          "_comment": "elle voulait ma lettre"
+},
+        {
+  "x": 0.782,
+  "y": 0.399,
+  "width": 0.170,
+  "height": 0.179,
+  "target": "scene193",
+          "_comment": "elle était moche"
+}
+    ]
+}

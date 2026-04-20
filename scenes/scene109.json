@@ -1,0 +1,27 @@
+{
+  "image": "i109.png",
+  "zones": [],
+  "animation": {
+    "duration": 4000,
+    "complete_target": "mort_21",
+    "objects":
+    [
+       {
+      "image": "vaisseau_avec_zgu.png",
+      "scale": 0.66,
+      "movement":
+      [
+        { "time": 0, "x": 2.3, "y": -0.9},
+        { "time": 4000, "x": 0, "y": 0.1}
+      ]
+      }
+    ]
+  },
+  "sounds": [
+    {
+      "file": "son/ovni.wav",
+      "trigger": "start",
+      "volume": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "image": "i237.png",
+  "zones": [],
+  "animation": {
+    "duration": 1500,
+     "complete_target": "expli5",
+    "objects": []
+  }
+}

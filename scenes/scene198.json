@@ -1,0 +1,22 @@
+{
+    "image": "i198.png",
+    "_comment": "chat propose article contre 10 euros",
+    "zones": [
+        {
+  "x": 0.564,
+  "y": 0.588,
+  "width": 0.215,
+  "height": 0.123,
+  "target": "scene215",
+          "_comment": "donne 10 euros"
+},
+        {
+  "x": 0.844,
+  "y": 0.588,
+  "width": 0.124,
+  "height": 0.120,
+  "target": "scene196",
+          "_comment": "donne rien"
+}
+    ]
+}

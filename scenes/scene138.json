@@ -1,0 +1,17 @@
+{
+  "image": "i138.png",
+  "zones": [],
+  "animation": {
+    "duration": 2000,
+    "complete_target": "scene143",
+    "objects": []
+  },
+  "sounds": [
+    {
+      "file": "son/vroom.wav",
+      "trigger": "start",
+      "loop": true,
+      "volume": 0.25
+    }
+  ]
+}
