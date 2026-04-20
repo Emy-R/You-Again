@@ -22,7 +22,6 @@ def game_over():
 
 
 
-
 def win(screen):
 
     WIDTH, HEIGHT = screen.get_size()

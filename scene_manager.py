@@ -402,3 +402,4 @@ class SceneManager:
             if elapsed >= self.anim_duration:
                 if self.anim_target:
                    self.load_scene(self.anim_target)
+

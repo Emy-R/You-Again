@@ -17,7 +17,6 @@ class SoundEvent:
     def update(self, current_time):
         if self.played:
             return
-
         if self.trigger == "start"and not self.played:
             self.play()
 

@@ -11,7 +11,6 @@ BLACK = (0, 0, 0)
 FPS = 60
 OBJECTIF_ESQUIVES = 15  # Le nombre de patates à esquiver pour gagner
 
-
 def run(screen, WIDTH, HEIGHT, clock):
     # CHARGEMENT DES IMAGES ET DES MASQUES
     try:

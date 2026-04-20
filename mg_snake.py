@@ -13,7 +13,6 @@ FOOD_SPRITE_PATH = "images/sprites/Patate.png"
 SPRITE_SCALE = 4
 WIN_SCORE = 3
 
-
 BLACK = (0, 0, 0)
 LIGHT_GREEN = (136, 221, 136)
 GREEN = (0, 200, 0)

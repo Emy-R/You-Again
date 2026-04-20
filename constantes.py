@@ -11,3 +11,4 @@ BLANC = (255, 255, 255)
 
 # Raccourcis utiles
 QUIT_KEYS = [pygame.K_ESCAPE]
+

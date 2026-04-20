@@ -45,3 +45,4 @@ class AnimatedObject:
         px = int(self.x * sw)
         py = int(self.y * sh)
         screen.blit(self.image, (px, py))
+

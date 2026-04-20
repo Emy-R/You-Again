@@ -99,7 +99,6 @@ Ce jeu contient :
 - des choix injustes,
 - des morts soudaines,
 - des patates hostiles.
-
 ◉
 
 
